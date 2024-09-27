@@ -168,7 +168,6 @@ void Error_Handler(void)
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/user-attachments/assets/7e48b937-f6a4-4338-aa5c-e54d136b10aa)
 
 ![WhatsApp Image 2024-09-27 at 14 29 13_df25fc34](https://github.com/user-attachments/assets/33396178-96dd-45bf-a824-41b95de358e9)
 
