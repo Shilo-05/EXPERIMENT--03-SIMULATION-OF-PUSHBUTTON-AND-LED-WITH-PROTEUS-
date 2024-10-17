@@ -167,8 +167,7 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-
-
+***On state diagram***
 ![WhatsApp Image 2024-09-27 at 14 29 13_df25fc34](https://github.com/user-attachments/assets/33396178-96dd-45bf-a824-41b95de358e9)
 
 
