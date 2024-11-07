@@ -1,8 +1,9 @@
 # **EXPERIMENT--02-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS** 
 
-##### Developed by: Oswald Shilo
-##### Reg No: 212223040139
-
+```
+Developed by: Oswald Shilo
+Reg No: 212223040139
+```
 
 ### Aim:
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
@@ -149,18 +150,23 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-***On state diagram***
-![WhatsApp Image 2024-09-27 at 14 29 13_df25fc34](https://github.com/user-attachments/assets/33396178-96dd-45bf-a824-41b95de358e9)
 
 ***Off state diagram***
-![image](https://github.com/user-attachments/assets/c47836a5-4bde-440a-8d26-4e5c74486be7)
+
+![image](https://github.com/user-attachments/assets/5ef2a340-2fb7-4cc4-95ad-1a6b3c9bf540)
+
+
+***On state diagram***
+![image](https://github.com/user-attachments/assets/f8bc1bf9-3363-451f-b46f-ab224d90825d)
+
+![image](https://github.com/user-attachments/assets/eb57c883-7838-4ccf-8ecc-a8ecfd84a459)
+
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
- ![image](https://github.com/user-attachments/assets/f37507d6-f3c5-4ca6-9345-9efb13e7e6c2)
 
- 
+![image](https://github.com/user-attachments/assets/fa96680a-0d6b-4bfc-a2c6-bba520bc724f)
+
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
